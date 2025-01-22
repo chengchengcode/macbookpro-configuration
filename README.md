@@ -77,6 +77,10 @@ https://web.archive.org/web/20170314015522/https://www.astromatic.net/download/s
 
 brew install 能装上
 
+# MenuMeters安装
+
+https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/
+
 # Bagpipes报错 dlsym(RTLD_DEFAULT, run)
 
 参考：https://github.com/ACCarnall/bagpipes/issues/83 改用nautilus
